@@ -1,2 +1,117 @@
-*
-!.gitignore
+[
+  {
+    "invoice_number": "IMPORTED-001",
+    "vendor_id": 1,
+    "doc_date": "2025-01-01",
+    "ammount": 234.23
+  },
+  {
+    "invoice_number": "IMPORTED-002",
+    "vendor_id": 1,
+    "doc_date": "2025-01-05",
+    "ammount": 523.00,
+    "status": "paid"
+  },
+  {
+    "invoice_number": "IMPORTED-003",
+    "vendor_id": 1,
+    "doc_date": "2025-01-05",
+    "due_date": "2025-01-15",
+    "ammount": 123.00
+  },
+  {
+    "invoice_number": "IMPORTED-004",
+    "vendor_id": 1,
+    "doc_date": "2025-01-05",
+    "due_date": "2025-01-15",
+    "ammount": 43.00,
+    "status": "paid"
+  },
+  {
+    "invoice_number": "IMPORTED-005",
+    "vendor_id": 1,
+    "doc_date": "2025-01-01",
+    "ammount": 234.23
+  },
+  {
+    "invoice_number": "IMPORTED-006",
+    "vendor_id": 1,
+    "doc_date": "2025-01-05",
+    "ammount": 13.00,
+    "status": "paid"
+  },
+  {
+    "invoice_number": "IMPORTED-007",
+    "vendor_id": 1,
+    "doc_date": "2025-01-05",
+    "ammount": 54.00
+  },
+  {
+    "invoice_number": "IMPORTED-008",
+    "vendor_id": 1,
+    "doc_date": "2025-01-05",
+    "due_date": "2025-01-15",
+    "ammount": 43.00,
+    "status": "pago"
+  },
+
+  // Vendor 2
+  {
+    "invoice_number": "IMPORTED-009",
+    "vendor_id": 2,
+    "doc_date": "2025-02-01",
+    "ammount": 350.00,
+    "status": "pending"
+  },
+  {
+    "invoice_number": "IMPORTED-010",
+    "vendor_id": 2,
+    "doc_date": "2025-02-03",
+    "due_date": "2025-02-13",
+    "ammount": 120.50
+  },
+  {
+    "invoice_number": "IMPORTED-011",
+    "vendor_id": 2,
+    "doc_date": "2025-02-05",
+    "ammount": 800.00,
+    "status": "paid"
+  },
+  {
+    "invoice_number": "IMPORTED-012",
+    "vendor_id": 2,
+    "doc_date": "2025-02-07",
+    "due_date": "2025-02-20",
+    "ammount": 60.00
+  },
+
+  // Vendor 3
+  {
+    "invoice_number": "IMPORTED-013",
+    "vendor_id": 3,
+    "doc_date": "2025-03-01",
+    "ammount": 450.75
+  },
+  {
+    "invoice_number": "IMPORTED-014",
+    "vendor_id": 3,
+    "doc_date": "2025-03-02",
+    "ammount": 99.99,
+    "status": "pending"
+  },
+  {
+    "invoice_number": "IMPORTED-015",
+    "vendor_id": 3,
+    "doc_date": "2025-03-05",
+    "due_date": "2025-03-15",
+    "ammount": 150.00,
+    "status": "paid"
+  },
+  {
+    "invoice_number": "IMPORTED-016",
+    "vendor_id": 3,
+    "doc_date": "2025-03-07",
+    "ammount": 75.00
+  }
+]
+
