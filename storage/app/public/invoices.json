@@ -54,8 +54,6 @@
     "ammount": 43.00,
     "status": "pago"
   },
-
-  // Vendor 2
   {
     "invoice_number": "IMPORTED-009",
     "vendor_id": 2,
@@ -84,8 +82,6 @@
     "due_date": "2025-02-20",
     "ammount": 60.00
   },
-
-  // Vendor 3
   {
     "invoice_number": "IMPORTED-013",
     "vendor_id": 3,
